@@ -1,4 +1,4 @@
-#Dynamic Composite Data Physicalization Using Zooids\\  Extended Material
+##Dynamic Composite Data Physicalization Using Zooids \\  Extended Material
 ![Teaser](/Images/teaser.jpg)
 
 Dynamic composite physicalizations are a new class of physical visualizations that use collections of self-propelled objects to represent data. These can be used both to give physical form to well-known interactive visualization techniques, and to explore new visualizations and interaction paradigms. We illustrate dynamic composite physicalizations in a scenario demonstrating potential benefits for collaboration and decision making, as well as new opportunities for physical interaction.
