@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>ZooidsVis</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+	<!--
+    <button type="button" onclick="openConnection()">Open Connector</button>
+    <button type="button" onclick="closeConnection()">Close Connector</button>
+	-->
+
+    <div id="content"></div>
+
+    <script src="./lib/d3/d3.v4.min.js"></script>
+    <!-- <script src="https://d3js.org/d3-selection-multi.v1.min.js"></script> -->
+    <script src="./lib/jquery/jquery-3.3.1.min.js"></script>
+	<script src="./js/utils.js"></script>
+	<script src="./js/constants.js"></script>
+    
+    <script src="./js/simple_connector.js"></script>
+    <script src="./js/app.js"></script>
+
+
+    <!--main script-->
+    <script>
+
+
+        var zooids_connector = new SimpleZooidsConnector({
+            server_url: "zooidvis.com",
+            app_url: "",
+            port: 9093,
+            security: "ws"
+        });
+
+        var app = new App({
+          connector: zooids_connector
+        });
+		
+		openConnection();
+
+        function openConnection(){
+            zooids_connector.initConnection(function(){
+                if(this == "initDone"){
+                  zooids_connector.sendMessageToServer({type: "init", value: "Connection initiated"});
+                }
+            });
+        }
+
+        function closeConnection(){
+            zooids_connector.closeConnection();
+        }
+
+        zooids_connector.messageReceived = function(server_message) {
+          //console.log(server_message)
+            switch(server_message.message_id){
+              case 1:
+                console.log("action = " + server_message.action + " for zooid with id = " + server_message.point_id);
+				switch(server_message.action){
+					case "hide":
+						app.objectUnSelected(server_message.point_id);
+					break;
+					case "show":
+						app.objectSelected(server_message.point_id);
+					break;
+					default: console.error("Unknown servermessage.action: ",server_message.action);
+				}
+                break;
+              case 0:
+                console.log("received dataset from server", server_message);
+                app.loadDataset(server_message);
+                break;
+              default: throw "Unknown message id: " + server_message.message_id;
+            }
+        };
+
+    </script>
+
+
+
+</body>
+</html>

@@ -1,0 +1,308 @@
+id,name,nationality,city,latitude,longitude,gender,ethnic.group,age,english.grade,math.grade,sciences.grade,language.grade,portfolio.rating,coverletter.rating,refletter.rating
+0,Kiana Lor,China,Suzhou,31.31,120.62,F,NA,22,3.5,3.7,3.1,1,4,4,4
+1,Joshua Lonaker,United States of America,Santa Clarita,34.39,-118.54,M,NA,22,2.9,3.2,3.6,5,5,4,5
+2,Dakota Blanco,United States of America,Oakland,37.8,-122.27,F,NA,22,3.9,3.8,3.2,5,3,3,4
+3,Natasha Yarusso,United States of America,Castro Valley,37.69,-122.09,F,NA,20,3.3,2.8,3.2,5,5,2,4
+4,Brooke Cazares,Brazil,São José dos Campos,-23.18,-45.88,F,NA,21,3.7,2.6,3.4,1,4,4,5
+5,Rochelle Johnson,United States of America,Indianapolis,39.77,-86.16,F,NA,21,3.4,3.1,3.7,5,2,4,4
+6,Joey Abreu,China,Shenyang,41.79,123.43,M,NA,22,3.7,3.9,3.6,2,5,5,5
+7,Preston Suarez,Brazil,São Paulo,-23.47,-46.67,M,NA,22,3.8,3.7,3.6,2,5,5,4
+8,Lee Dong,Philippines,Manila,14.6,120.98,F,NA,24,3.9,3.6,3.2,2,4,3,5
+9,Maa'iz al-Dia,Turkey,Istanbul,41.02,28.96,M,NA,22,2.4,2.8,3.8,3,5,5,4
+10,Maja Nicholson,United States of America,Dallas,32.78,-96.8,F,NA,23,3.4,3.5,3.2,5,4,2,5
+11,Sasha Jansen,United States of America,Chicago,41.85,-87.65,F,NA,21,1.7,4,3.6,5,4,4,5
+12,Alexander Sherman,United States of America,Omaha,41.26,-95.94,M,NA,20,3.8,3.6,3.9,5,4,4,5
+13,Edgar Sanchez,Mexico,Tijuana,32.53,-117.02,M,NA,23,3.7,3.5,4,4,4,5,5
+14,Kolbi Strunk,United States of America,Mission Viejo,33.6,-117.67,M,NA,21,3.2,3.9,3.3,5,4,3,4
+15,Brittany Sath,Japan,Tokyo,35.69,139.75,F,NA,21,4,3.9,3.7,3,5,3,5
+16,Meggan Smith,United States of America,Los Angeles,34.05,-118.24,F,NA,21,2.9,3.4,3.6,5,2,5,4
+17,Ericka Arreola,Mexico,Mexico,19.43,-99.14,other,NA,23,3.1,3.5,2.8,4,4,3,4
+18,David Pulc,Canada,Toronto,43.67,-79.42,M,NA,24,3.9,2.9,4,5,5,4,2
+19,Kyle Luckey,United States of America,Moreno Valley,33.94,-117.23,M,NA,23,3.7,3.9,3.4,5,3,4,4
+20,Rojesh Her,Japan,Tokyo,35.69,139.75,M,NA,22,3.8,3.6,3.6,2,4,4,3
+21,David Weber,China,Peking,39.93,116.39,M,NA,20,3.9,3.9,3.9,2,3,4,5
+22,Rachel Jambor,United States of America,Chicago,41.85,-87.65,F,NA,22,3.6,3.6,3.9,5,3,4,4
+23,Mus'ab al-Moustafa,Pakistan,Rawalpindi,33.6,73.07,M,NA,23,3.8,3.9,3.8,2,2,5,4
+24,Sila Nguyen,China,Hebi,35.9,114.19,M,NA,23,2.8,3.5,3.5,4,5,4,4
+25,Samantha Hicks,United States of America,Santa Barbara,34.42,-119.7,F,NA,22,3.7,3.7,3.8,5,3,4,4
+26,Angela Harding,United States of America,Manteca,37.8,-121.22,F,NA,22,3.1,2.9,3.2,5,3,5,5
+27,Brandon Barbour,United States of America,South Hill,47.14,-122.27,M,NA,21,3.9,3.7,3.3,5,4,5,5
+28,Reilly Wagar,United States of America,Modesto,37.64,-121,F,NA,23,3.4,3.2,3.7,5,5,4,5
+29,Victoria Ibarra,Dominican Republic,Santo Domingo,18.47,-69.9,F,NA,22,3.4,3.8,4,4,5,5,5
+30,Dakota Wirth,United States of America,Sacramento,38.58,-121.49,F,NA,22,3.4,3.9,3.6,5,3,5,5
+31,Lauren Klocker,United States of America,Los Angeles,34.05,-118.24,F,NA,22,2.3,3.9,3.8,5,5,3,4
+32,Michael Benson,United States of America,Phoenix,33.45,-112.07,M,NA,21,3.8,3.7,3.7,5,4,5,3
+33,Sean Rozga,United States of America,Los Angeles,34.05,-118.24,M,NA,21,3.4,3.8,3.6,5,4,5,4
+34,Cody Vermeylen,United States of America,Detroit,42.33,-83.05,M,NA,23,3.3,3.8,3.5,5,2,3,4
+35,Kinaana al-Jamail,India,Kanpur,26.47,80.35,F,NA,22,3.3,3.8,3.7,3,4,4,4
+36,Daniel Garcia,Peru,Lima,-12.05,-77.05,M,NA,22,3.7,3.1,3,3,5,5,5
+37,Katrina Saito,Japan,Tokyo,35.69,139.75,F,NA,22,3.8,4,3.7,4,5,4,5
+38,Joshua Galloway,United States of America,New York,40.71,-74.01,M,NA,24,3.3,3.3,3.6,5,4,5,5
+39,Aylin Mendoza,Mexico,Mexico,19.43,-99.14,F,NA,22,3,2.3,3.9,4,2,4,4
+40,Sharon Fyfe,United States of America,Los Angeles,34.05,-118.24,F,NA,22,3.7,3,3.8,5,4,5,4
+41,Afnaan el-Mohammed,India,New Delhi,28.6,77.2,F,NA,22,1.7,3.5,3.9,2,5,5,4
+42,Jesse Williams,Russian Federation,Moscow,55.75,37.62,F,NA,21,3.9,3.4,2.6,4,4,4,5
+43,Kenny Fukushima,Japan,Tokyo,35.69,139.75,M,NA,22,3.9,2.9,3.3,4,5,5,5
+44,Tawnie Glaisher,United States of America,Fremont,37.55,-121.99,F,NA,24,3.4,3.2,3.8,5,4,4,5
+45,Britany Stevens,United States of America,Lafayette,37.89,-122.12,F,NA,23,3.6,3.3,3.5,5,3,3,3
+46,Alan Trinh,Japan,Tokyo,35.69,139.75,M,NA,20,2.8,3.1,3.8,4,3,4,5
+47,Zoe Kern,United States of America,West Jordan,40.61,-111.94,F,NA,22,2.1,4,3.4,5,4,5,4
+48,Sidney Beavers,United States of America,Los Angeles,34.05,-118.24,M,NA,23,2.3,2.8,3.5,5,4,4,4
+49,Miriam Aguilar,Mexico,Mexicali,32.65,-115.47,F,NA,22,3.6,3.8,2.8,2,4,4,4
+50,Issac Mata,Mexico,Tehuacán,18.45,-97.38,M,NA,23,2.4,3.1,2.7,1,5,5,4
+51,Hannah Uren,United States of America,Los Angeles,34.05,-118.24,F,NA,22,3.2,2.2,3.5,5,5,3,5
+52,Zachary Bradley,Spain,Madrid,40.41,-3.69,M,NA,21,3.5,3.5,3.4,2,3,5,5
+53,Moira Buttitto,United States of America,Los Angeles,34.05,-118.24,F,NA,23,1.9,2.8,3.2,5,4,5,5
+54,Nicole Humpal,United States of America,Walnut Creek,37.91,-122.06,F,NA,22,3.9,3.7,4,5,3,5,3
+55,Georgia Williams,United States of America,Memphis,35.15,-90.05,F,NA,23,2.9,3.6,3.1,5,5,5,2
+56,Connor Ferry,United States of America,Charlotte,35.23,-80.84,M,NA,23,3.1,3.8,4,5,4,5,4
+57,Amanda Tatum,United States of America,San Diego,32.72,-117.16,F,NA,22,3.5,2.3,3.7,5,4,5,4
+58,Cameron Steinberg,United States of America,Los Angeles,34.05,-118.24,M,NA,20,2.1,3.9,3.9,5,5,5,5
+59,Shuraih el-Karim,Pakistan,Khalabat,34.06,72.89,M,NA,22,3.1,2.1,2.3,4,4,4,4
+60,Katelyn Sharp,United States of America,Los Angeles,34.05,-118.24,F,NA,20,3.9,3.7,2.8,5,5,3,5
+61,Colin Lemont,China,Shanghai,31.05,121.4,M,NA,21,3.6,4,3.1,4,4,5,4
+62,Donald Nevins,United States of America,San Jose,37.34,-121.89,M,NA,23,3.6,3.4,2.8,5,2,4,4
+63,Macaela Kadillak,United States of America,Los Angeles,34.05,-118.24,F,NA,20,2.7,3.3,3.3,5,4,1,4
+64,Brittany Pratt,United States of America,San Diego,32.72,-117.16,F,NA,22,3,3.1,3.1,5,3,4,4
+65,Cameron Hancock,Poland,Warsaw,52.25,21,M,NA,21,3.9,3.8,3,3,4,3,4
+66,William Grevious,United States of America,Stockton,37.96,-121.29,M,NA,22,3.4,3.4,3.1,5,3,5,5
+67,Lindsey Job,United States of America,Los Angeles,34.05,-118.24,F,NA,23,2.7,3.7,1.8,5,4,5,4
+68,Gabrielle Smith,Korea (Republic of),Seoul,37.6,126.98,F,NA,23,4,3,2.8,3,2,2,4
+69,Allison Brink-Lomme,United States of America,Portland,45.52,-122.67,F,NA,24,2.8,3.6,4,5,4,3,1
+70,Sheyenne Delgado-Manzanares,Cuba,Manzanillo,20.34,-77.12,F,NA,21,3.9,2.8,3.2,3,4,4,5
+71,Joseph Smith,United States of America,Sacramento,38.58,-121.49,M,NA,21,3.7,3.7,2.8,5,5,4,4
+72,Fikra al-Mina,India,Bombay,18.98,72.83,F,NA,21,3.1,2.4,3.3,3,1,5,4
+73,Aurelia Davis Ingham,United States of America,Roseville,38.75,-121.29,F,NA,22,3.8,2.2,3.7,5,4,5,5
+74,Taylor Elstun,United States of America,San Diego,32.72,-117.16,F,NA,21,2.3,3.7,3.6,5,5,4,5
+75,Joseph Snider,United States of America,Los Angeles,34.05,-118.24,M,NA,21,3.2,2.6,3,5,5,4,5
+76,Sourinthone Tran,China,Wuhan,30.58,114.27,M,NA,21,3.5,3.9,3.4,4,4,4,5
+77,Ibrahim al-Sawaya,Tunisia,Manzil Tamim,36.78,10.99,M,NA,23,3.5,3.1,4,4,5,3,3
+78,Alexandra Levy,United States of America,Los Angeles,34.05,-118.24,F,NA,23,3.1,2.5,3.7,5,4,3,5
+79,Macie Nguyen,Japan,Tokyo,35.69,139.75,F,NA,23,3.1,3.8,3.8,4,2,4,3
+80,Sean Tegtman,United States of America,Kettering,39.69,-84.17,M,NA,25,3.7,3.8,3.8,5,3,4,5
+81,Casey Vanden Bos,United States of America,Los Angeles,34.05,-118.24,M,NA,22,2.7,2.6,3.3,5,5,5,4
+82,Staci Maes,Mexico,Mexico,19.43,-99.14,F,NA,23,3.4,2.6,3.9,2,5,3,5
+83,Luke Davey,United States of America,Los Angeles,34.05,-118.24,M,NA,26,3.8,3.4,3.7,5,4,5,3
+84,Harper Wheeler-Marques,United States of America,San Diego,32.72,-117.16,F,NA,23,3.9,2.4,3.9,5,5,4,2
+85,Sherleen Saravanan,Myanmar,Rangoon,16.78,96.17,F,NA,22,3.1,3.4,3.7,3,4,3,5
+86,Myles Vaught,United States of America,Waukegan,42.36,-87.84,M,NA,21,3.4,3.8,3.9,5,3,4,4
+87,Juan Guerrero Camacho,Mexico,Mexico,19.43,-99.14,M,NA,21,2.8,3.7,3.5,2,4,4,5
+88,Lindsey Freund,United States of America,New York,40.71,-74.01,F,NA,20,3.3,2.3,3.9,5,3,5,5
+89,Savannah Clark,United States of America,Visalia,36.33,-119.29,F,NA,20,2.8,3.5,2.6,5,3,4,4
+90,Bradley Monsell,United States of America,New York,40.71,-74.01,M,NA,22,3,3.9,3.1,5,5,2,4
+91,Daisha Schmidt,United States of America,Boulder,40.02,-105.27,F,NA,22,3.7,3.9,4,5,5,4,4
+92,Airabella Koontz,United States of America,Dallas,32.78,-96.8,F,NA,22,2.7,3.3,3.4,5,4,5,4
+93,Hailey Malle,Russian Federation,Nizhniy Novgorod,56.33,44.01,F,NA,22,3.7,2.5,3.2,2,3,3,5
+94,Devon Miranda,Colombia,Pereira,4.81,-75.7,M,NA,20,3.7,3.7,3.8,1,5,5,5
+95,Danielle Nguyen,Japan,Tokyo,35.69,139.75,F,NA,23,3.3,3.5,3.6,3,5,4,4
+96,Mateo Cisneros,Brazil,Foz do Iguaçu,-25.55,-54.58,M,NA,23,3,3.4,2.9,4,4,4,5
+97,William Pablo,Japan,Kashiwara,34.58,135.62,M,NA,24,2.9,3.3,3.1,4,2,5,4
+98,Jason Hundsdorfer,United States of America,Los Angeles,34.05,-118.24,M,NA,20,3.9,3.9,4,5,3,3.5,3
+99,Antonio Desai,Japan,Kawasaki,35.52,139.72,M,NA,22,2.2,3.9,3.9,3,5,4,5
+100,Rachel Bakeman,United States of America,Phoenix,33.45,-112.07,F,NA,24,3.9,3.7,3.8,5,4,5,3
+101,Mamdooh el-Moustafa,Pakistan,Karachi,24.91,67.08,M,NA,22,3.3,2.8,3.9,4,4,4,4
+102,Lindsey Carter,United States of America,Redwood City,37.49,-122.24,F,NA,24,3.2,3.9,3.9,5,2,4,5
+103,Duncan Kruse,United States of America,Santa Ana,33.75,-117.87,M,NA,23,3.7,3.8,3.7,5,1,5,4
+104,Callahan Foster,Canada,Toronto,43.67,-79.42,other,NA,22,3.2,3,3.9,5,3,3,5
+105,Jamie Ortiz,El Salvador,Nueva San Salvador,13.68,-89.28,F,NA,23,3.3,2.9,3.5,3,4,4,4
+106,Ryan Barrett,United States of America,Chicago,41.85,-87.65,M,NA,20,3.7,3.2,4,5,5,4,1
+107,Samuel Palmer,United States of America,New York,40.71,-74.01,M,NA,22,3.9,3.3,3.3,5,5,4,2
+108,Riley Mcloughlin,United States of America,Los Angeles,34.05,-118.24,M,NA,23,3.6,3.6,3.3,5,5,4,4
+109,Aimee Apelyan,United States of America,Joliet,41.52,-88.08,F,NA,24,3.3,3.8,3.8,5,4,4,4
+110,Maryah Falloon,United States of America,Phoenix,33.45,-112.07,F,NA,23,3.9,3.7,3.9,5,3,4,5
+111,Lucille Mitchell,Canada,Edmonton,53.55,-113.5,F,NA,22,3.5,3.6,2.6,5,5,4,4
+112,Christian Zambrano-Munoz,Mexico,Mexicali,32.65,-115.47,M,NA,23,3.1,3.9,3.6,4,4,3,4
+113,Bryce Vaillancourt,United States of America,Pomona,34.06,-117.75,M,NA,22,3.7,3.8,2.1,5,4,5,4
+114,Brandilyn Collins,United States of America,Los Angeles,34.05,-118.24,F,NA,21,3.6,3,3.3,5,4,4,4
+115,Konner Gearhart,United States of America,New York,40.71,-74.01,M,NA,22,3.9,3.7,3.3,5,4,3,3
+116,Andrew Houghton,United States of America,Spokane,47.66,-117.42,M,NA,22,3.2,3.2,3.8,5,2,4,5
+117,Marisa Ramey,Mexico,Mexico,19.43,-99.14,F,NA,22,3.2,4,3.8,4,3,3,4
+118,Magdalynne Noah,United States of America,New York,40.71,-74.01,F,NA,22,3.2,3.8,3.8,5,3,4,4
+119,Megan Salamena,United States of America,Los Angeles,34.05,-118.24,F,NA,23,3.9,3.9,3.1,5,4,4,5
+120,Meghan Arnold,Russian Federation,Saint Petersburg,59.89,30.26,F,NA,24,4,3.9,3.3,3,5,3,3
+121,James Rice,Canada,Toronto,43.67,-79.42,M,NA,20,3.9,2.4,3.6,5,4,3,4
+122,Wesley Nunn,United States of America,Los Angeles,34.05,-118.24,M,NA,23,3.9,4,2.1,5,5,5,3
+123,Gareth Newkirk,United States of America,Los Angeles,34.05,-118.24,M,NA,21,4,3.2,3.9,5,4,5,4
+124,Austin Harline,United States of America,Las Vegas,36.17,-115.14,M,NA,21,2.8,3.8,3.8,5,5,5,4
+125,Courtney Martinez,Mexico,Aguascalientes,21.88,-102.3,F,NA,20,3.7,3.7,3.7,3,4,5,5
+126,Alexandra Graham,United States of America,Los Angeles,34.05,-118.24,F,NA,22,3.4,3.5,2.8,5,4,3,5
+127,Alexander Swearingen,United States of America,Los Angeles,34.05,-118.24,M,NA,22,3.9,2.8,4,5,3,4,4
+128,Brandy Waldner,Germany,Zülpich,50.7,6.65,F,NA,20,3.2,3.5,3.9,3,5,5,5
+129,Coleman Keelen,Spain,Callosa de Segura,38.12,-0.88,M,NA,24,3.4,4,3.4,4,4,4,4
+130,Casey Buhr,United States of America,Phoenix,33.45,-112.07,M,NA,21,3.7,3.2,2.5,5,2,3,5
+131,Shauna Sneed,United States of America,Burlingame,37.58,-122.36,F,NA,19,2.7,3.7,3.7,5,5,4,5
+132,Caitlin Dean,United States of America,Philadelphia,39.95,-75.16,F,NA,22,3.9,3.7,3.1,5,4,4,4
+133,Andrew Kirin,United States of America,Odessa,31.85,-102.37,M,NA,25,3.8,2.2,3,5,3,2,3
+134,Nadia Minks,Russian Federation,Moscow,55.75,37.62,F,NA,24,3.8,3.1,3.5,4,2,5,5
+135,Ivy Lucero,Brazil,São Paulo,-23.47,-46.67,F,NA,24,3.9,3.6,3.2,3,4,4,4
+136,Kevin Curry,United States of America,Phoenix,33.45,-112.07,M,NA,23,3.9,3,3.7,5,5,5,5
+137,Charles Cramer,United States of America,East Los Angeles,34.02,-118.17,M,NA,23,3.1,3.5,3.8,5,4,5,4
+138,Emily Warner,United States of America,Lodi,38.13,-121.27,F,NA,21,3.5,3.2,3.9,5,3,5,4
+139,Mckenzie Haycock,Canada,Toronto,43.67,-79.42,F,NA,20,3.8,2.3,3.7,5,5,4,3
+140,Faviola Soto,Mexico,Cortazar,20.48,-100.93,F,NA,19,4,3.8,3.9,3.7,5,5,4
+141,Stephen Wharton,Mexico,Tuxtla Gutiérrez,16.75,-93.12,M,NA,21,2.1,3.7,3.8,4,4,5,3
+142,Alexandria Fortner,United States of America,Phoenix,33.45,-112.07,F,NA,20,3.9,3.8,3.8,5,4,4,5
+143,Savannah Kivett,United States of America,Colorado Springs,38.83,-104.82,F,NA,21,3.8,3.9,3.8,5,4,4,5
+144,Tanner Jones,United States of America,Stockton,37.96,-121.29,M,NA,23,3.9,3.7,3.7,5,4,5,5
+145,Luisa Bautista,Mexico,Mexico,19.43,-99.14,F,NA,21,3.3,3,3.4,3,4,4,4
+146,Juhaina al-Bilal,Bangladesh,Dhaka,23.72,90.41,F,NA,20,3.9,3.9,3.9,5,5,4,5
+147,Siena Ingram,United States of America,Henderson,36.04,-114.98,F,NA,21,3.8,3.7,3.8,5,5,3,5
+148,Alondra Gardea Corral,Mexico,Ensenada,31.87,-116.62,F,NA,20,2.2,3.8,3.1,2,3,4,2
+149,Vincent Webster,United States of America,New York,40.71,-74.01,M,NA,23,2,3.7,3.4,5,4,3,5
+150,Abdul Jabbaar el-Abdul,Egypt,Cairo,30.05,31.25,M,NA,20,1.5,3.5,3.2,3,3,5,4
+151,Patrick Carnes,United States of America,Mesa,33.42,-111.82,M,NA,22,2.4,3.5,3.6,5,3,5,5
+152,Shawn O Bryan,United States of America,Fairfield,38.25,-122.04,M,NA,23,2.9,3.7,1.5,5,3,5,3
+153,Jenna Whitney,United States of America,San Diego,32.72,-117.16,F,NA,23,3.7,2.9,3.9,5,3,4,5
+154,Kaitlin Krueger,United States of America,Los Angeles,34.05,-118.24,F,NA,24,3.7,3.9,4,5,4,5,4
+155,Jaime Mikesell,United States of America,Los Angeles,34.05,-118.24,F,NA,20,3.9,3.7,3.7,5,4,5,4
+156,Katelynn Andrie,United States of America,Kansas City,39.1,-94.58,F,NA,23,3,3.9,3.9,5,5,5,5
+157,Maryn Manzanares,United States of America,Laguna Hills,33.61,-117.71,F,NA,21,3.9,3.2,3.2,5,2,4,4
+158,Colleen Kohout,United States of America,Philadelphia,39.95,-75.16,F,NA,22,3.5,3.8,3.1,5,4,4,4
+159,Daniel Spurlin,United States of America,San Jose,37.34,-121.89,M,NA,24,3.9,3.9,3.7,5,5,5,3
+160,Trevor Bulba,United States of America,Chicago,41.85,-87.65,M,NA,21,3.9,3.8,3.8,5,5,4,5
+161,Jordan Burkhamer,United States of America,San Jose,37.34,-121.89,F,NA,23,3,3.9,3.7,5,5,4,4
+162,Rebecca Ah Fat,China,Tangshan,37.33,114.7,F,NA,22,1.8,3.8,4,4,4,3,4
+163,Christopher Jacobo,United States of America,Los Angeles,34.05,-118.24,M,NA,21,3.4,2.7,3.9,5,4,4,3
+164,Min Singal,Japan,Tokyo,35.69,139.75,F,NA,24,3.8,2.9,2.9,4,5,3,2
+165,Corey Rademacher,Ukraine,Chernihiv,51.51,31.28,M,NA,22,3.1,3.3,3.9,3,4,5,4
+166,Alexander Reed,United States of America,Los Angeles,34.05,-118.24,M,NA,22,3,2.7,3.8,5,4,2,5
+167,Dalen Whiting,United States of America,Carrollton,32.95,-96.89,F,NA,23,2.8,3.9,3.3,5,5,5,5
+168,Chelsea Persky,United States of America,San Bernardino,34.11,-117.29,F,NA,23,3.9,3.4,4,5,3,3,4
+169,Karla Taylor,Mexico,Mexico,19.43,-99.14,F,NA,21,3.7,3,3.7,4,4,3,2
+170,Kaden Yates,United States of America,Salinas,36.68,-121.65,M,NA,23,3.6,3.4,4,5,5,4,3
+171,Maimoona el-Soliman,Turkey,Ankara,39.91,32.84,F,NA,21,2.8,2.6,3.9,3,4,3,4
+172,Aaqil el-Hashemi,India,Bangalore,12.98,77.58,M,NA,21,3.4,3,3.6,3,5,5,4
+173,Sean Bruso,United Kingdom,London,51.51,-0.09,M,NA,19,3.2,3.7,3.9,5,3,5,4
+174,Andrew Bishop,United States of America,Los Angeles,34.05,-118.24,M,NA,22,4,3.7,3.8,5,3,3,3
+175,Zahraaa el-Yousef,India,Hospet,15.27,76.4,F,NA,22,3.9,3.7,3.8,4,4,4,4
+176,Surya Ky,China,Tangshan,37.33,114.7,M,NA,21,3.7,4,3.8,4,4,4,5
+177,George Mann,Russian Federation,Moscow,55.75,37.62,M,NA,23,3.9,3.9,4,4,5,5,5
+178,Latino Calderon,Mexico,Hermosillo,29.07,-110.97,M,NA,23,3.6,3,3,3,5,4,4
+179,Baylen Cloutier,United States of America,Phoenix,33.45,-112.07,M,NA,22,3.9,3.4,3.7,5,3,5,3
+180,Nicole Torres-Valadez,Brazil,Rio de Janeiro,-22.9,-43.23,F,NA,24,3.9,3.1,3,1,4,5,4
+181,Addie Villavicencio,United States of America,San Jose,37.34,-121.89,F,NA,20,4,3.5,3.2,5,5,5,4
+182,Billy Jack Bestle,United States of America,Baltimore,39.29,-76.61,M,NA,22,3.7,4,3.8,5,5,4,5
+183,Isabella Martinez,Colombia,Bogotá,4.65,-74.06,F,NA,23,2.6,4,2.7,4,3,4,3
+184,Kimberly Thielke,United States of America,Los Angeles,34.05,-118.24,F,NA,21,3.8,3.9,3.3,5,3,5,5
+185,Adrian Miguel-Gomez,Colombia,Medellín,6.25,-75.56,M,NA,22,3.7,3.3,2.2,4,4,4,5
+186,Kayla Sales,United States of America,Quincy,42.25,-71,F,NA,22,2.1,3.1,4,5,5,4,5
+187,Haafiza al-Attar,Morocco,Rabat,34.01,-6.84,F,NA,21,2.4,3.6,3.8,3,3,5,3
+188,Juanita Medina,Mexico,Mexico,19.43,-99.14,F,NA,22,3.8,3.9,3.7,4,3,5,4
+189,Emma Kim,China,Hengshui,37.73,115.7,F,NA,22,2.8,3.9,3.8,2,4,4,4
+190,Mckayla Dopler,Netherlands,Kerkrade,50.87,6.07,F,NA,21,2.5,3.5,3.7,4,2,4,4
+191,Jonathan Nevarez,Mexico,Mexico,19.43,-99.14,M,NA,23,2.7,2.6,3.6,5,4,5,5
+192,Roger Redfern,United States of America,Los Angeles,34.05,-118.24,M,NA,21,3.9,3.9,3.1,5,5,3,4
+193,Hannah Critchfield,United States of America,New York,40.71,-74.01,F,NA,21,3.5,3.3,3.6,5,5,4,5
+194,Chue Fue Richter,China,Qiqihar,47.34,123.97,M,NA,23,3,3.6,1.4,4,5,3,4
+195,Joshua Mesan,United States of America,San Jose,37.34,-121.89,M,NA,24,4,3.8,3.7,5,5,4,5
+196,Dylan Bell,United States of America,Tucson,32.22,-110.93,M,NA,20,3.3,3.8,3.5,5,5,4,4
+197,Troy White,United States of America,New York,40.71,-74.01,M,NA,22,4,3.6,3.4,5,4,4,5
+198,Sabaaha al-Latif,India,Bangalore,12.98,77.58,F,NA,22,3.7,2.7,3,3,5,3,5
+199,Grant Walden,United States of America,San Diego,32.72,-117.16,M,NA,22,3.8,3.3,3.3,5,5,4,5
+200,Kitty Nguyen,Japan,Tokyo,35.69,139.75,F,NA,25,3.4,3.2,2.9,4,4,3,5
+201,Tyler Kibel,United States of America,Santa Ana,33.75,-117.87,M,NA,24,4,3.2,3.8,5,5,3,4
+202,Kyler Overboe,United States of America,Chicago,41.85,-87.65,M,NA,21,3.2,4,3.5,5,4,3,4
+203,Alexander Lizama,Brazil,Belo Horizonte,-19.92,-43.93,M,NA,21,3.9,3.7,3.9,3,4,5,4
+204,Aaron Knott,United States of America,Santa Ana,33.75,-117.87,M,NA,23,3.2,3.6,3.7,5,4,5,4
+205,Jessica Greenberg,United States of America,Joplin,37.08,-94.51,F,NA,23,3.6,3.7,2.8,5,4,4,5
+206,Lexi Hatton,United States of America,Los Angeles,34.05,-118.24,F,NA,23,3.3,2.7,4,5,4,5,5
+207,Jesse Hodapp,United States of America,Danville,37.82,-122,M,NA,21,3.8,3,3.5,5,4,2,2
+208,Andrew Brunelli,United States of America,New York,40.71,-74.01,M,NA,23,3.4,3.8,4,5,4,3,3
+209,Makenzie Swann,United States of America,Stockton,37.96,-121.29,F,NA,22,3.4,2.8,3.1,5,5,5,4
+210,Carlos Anaya,Mexico,Mexico,19.43,-99.14,M,NA,24,3.7,3.7,3.7,4,4,5,5
+211,Felipe Martinez Acosta,Chile,Santiago,-33.45,-70.67,M,NA,21,3.7,3.7,4,3,4,3,5
+212,Emma Casias,United States of America,Rochester,43.15,-77.62,F,NA,22,3.2,3.7,3.2,5,4,3,5
+213,Adolf Malik,Korea (Republic of),Seoul,37.6,126.98,M,NA,21,3.1,3.5,3.6,3,4,4,3
+214,Christian Chow,China,Handan,36.57,114.53,M,NA,21,2.6,3.9,3.4,4,5,5,5
+215,Asad el-Yacoub,India,Thana,19.2,72.97,M,NA,22,2.6,3.3,4,3,5,4,4
+216,Holly Marshall,United States of America,San Francisco,37.77,-122.42,F,NA,22,3,2.7,2,5,3,4,4
+217,Brandilyn Hanselman,Russian Federation,Chelyabinsk,55.15,61.43,F,NA,21,2,3.5,2.2,4,4,5,4
+218,Nicole Patria,China,Chongqing,29.56,106.55,F,NA,24,3.9,3.3,3,2,3,5,5
+219,Kyler Grieshaber,United States of America,Cohoes,42.77,-73.7,M,NA,22,3.6,3.4,4,5,4,3,5
+220,Jasper Stang,United States of America,Sacramento,38.58,-121.49,M,NA,24,3.6,3.9,3.3,5,5,5,5
+221,Anthony Visocsky,United States of America,Santa Rosa,38.44,-122.71,M,NA,21,3.4,2.4,4,5,2,4,4
+222,Jake Seime,United States of America,Reno,39.53,-119.81,M,NA,22,2.4,3.9,3.7,5,4,4,5
+223,Dasha Bannock Lee,United States of America,San Diego,32.72,-117.16,other,NA,20,2.8,3.3,4,5,4,3,2
+224,Anthony Mcdevitt,United States of America,Los Angeles,34.05,-118.24,M,NA,24,3.1,4,3.9,5,4,5,3
+225,Darby Focken,United States of America,Hinsdale,41.8,-87.94,F,NA,21,3.5,2.5,3.7,5,4,4,4
+226,Abigail Gallegos,Brazil,Belém,-1.45,-48.48,F,NA,24,3.4,3,2.1,4,3,3,4
+227,Patricia Rockhold,United States of America,San Francisco,37.77,-122.42,F,NA,21,4,3.5,3.4,5,5,4,5
+228,Kylie Schafer,United States of America,Houston,29.76,-95.36,F,NA,22,3.1,3,3.3,5,5,5,4
+229,Katherine Beatty,United States of America,Los Angeles,34.05,-118.24,F,NA,19,4,2.4,3.9,5,4,5,4
+230,Melissa Bickel,United Kingdom,London,51.51,-0.09,F,NA,22,3.6,2.6,2.5,5,4,4,4
+231,Rachel Boh,United States of America,Roseville,38.75,-121.29,F,NA,22,3.8,3.9,2.9,5,4,3,2
+232,Anna Yoshimura,China,Rizhao,35.39,119.55,F,NA,20,3.5,3.8,3.9,4,5,5,2
+233,Joseph Hazelton,United States of America,Oakland,37.8,-122.27,M,NA,22,3.5,4,3.9,5,5,4,5
+234,Tiffany Nguyen,Thailand,Bangkok,13.75,100.5,F,NA,22,3.3,3.9,3.9,2,5,4,5
+235,Ryan Tyler,United States of America,Los Angeles,34.05,-118.24,M,NA,20,3.7,3.5,3.5,5,4,5,5
+236,Max Flores,Mexico,Tijuana,32.53,-117.02,M,NA,23,3.9,2.8,2.5,4,4,5,5
+237,Veronica Tounzen,Mexico,Tijuana,32.53,-117.02,F,NA,21,3.8,3.5,3.5,4,4,4,5
+238,Haley Ingrim-Hyrup,United States of America,Fontana,34.09,-117.43,F,NA,22,3.2,3.6,2.6,5,2,4,3
+239,Kayla Sandefur,United States of America,Los Angeles,34.05,-118.24,F,NA,23,3.5,3.1,3.5,5,5,4,5
+240,Rylee Onstott,United States of America,Los Angeles,34.05,-118.24,other,NA,21,4,3.8,3.8,5,5,5,3
+241,Kelli De Bartolome,United States of America,San Francisco,37.77,-122.42,F,NA,23,3.4,3.4,3.5,5,2,5,4
+242,Thomas Chanlynn,United States of America,Bay Point,38.03,-121.96,M,NA,22,2.4,3,3.8,5,3,4,3
+243,Andrew Yelich,United States of America,Boulder,40.02,-105.27,M,NA,24,2,3.9,3.3,5,4,4,4
+244,Dimitri Castillo,Colombia,Dos Quebradas,4.84,-75.67,M,NA,21,3.9,3,3.8,3,2,4,4
+245,Matthew Strasburger,United States of America,Los Angeles,34.05,-118.24,M,NA,21,3.9,3.9,2.9,5,4,4,4
+246,Vittoria Faulkner,United States of America,Chicago,41.85,-87.65,F,NA,22,4,3.6,2.5,5,5,4,4
+247,Tyler Goetz,United States of America,Los Angeles,34.05,-118.24,M,NA,22,3.7,3.5,2.8,5,5,4,2
+248,Tyler Weller,United States of America,New York,40.71,-74.01,M,NA,22,3.7,3.2,3.1,5,4,3,5
+249,Terri Mergelman,United States of America,Los Angeles,34.05,-118.24,F,NA,23,2.7,3.9,3,5,4,4,4
+250,Abigail Orgeron,United States of America,Prior Lake,44.71,-93.42,F,NA,23,3.2,3,3.8,5,5,5,4
+251,Jessica Huynh,Korea (Republic of),Seoul,37.6,126.98,F,NA,22,3.5,2.7,3.2,2,5,3,5
+252,Kyle Blanscet,United States of America,Sabattus,44.12,-70.11,M,NA,23,3.8,3.5,3.7,5,4,4,5
+253,Ronald Toth,United States of America,Los Angeles,34.05,-118.24,M,NA,23,2.7,3.5,3.7,5,4,3,4
+254,Branden Cantrell,United States of America,Phoenix,33.45,-112.07,M,NA,23,2.7,4,3.9,5,5,5,5
+255,Hannah Ratterman,United States of America,Los Angeles,34.05,-118.24,F,NA,23,3.5,3.4,3.7,5,2,5,5
+256,Alexandria Winter,United States of America,New York,40.71,-74.01,F,NA,24,3.8,3.8,2.2,5,5,3,4
+257,Ryan Russell,United States of America,Vacaville,38.36,-121.99,M,NA,22,3,3.4,3.7,5,3,5,3
+258,Logan Nighswonger,United States of America,Los Angeles,34.05,-118.24,M,NA,21,2.7,4,3.9,5,4,3,5
+259,Zaghlool al-Pasha,India,Deoria,26.5,83.79,M,NA,21,2.3,3.8,3.8,4,5,5,5
+260,Madeline Kremke,United States of America,Montgomery Village,39.18,-77.2,F,NA,22,3.2,3.6,2.6,5,4,4,4
+261,John Ferry,United States of America,Long Beach,33.77,-118.19,M,NA,21,3.8,2.4,3.8,5,4,2,5
+262,Michelle Goldanloo,United States of America,San Diego,32.72,-117.16,F,NA,22,3.3,2.8,3.9,5,5,5,4
+263,Ryan Heidebrecht,United States of America,San Jose,37.34,-121.89,M,NA,22,3.9,3.7,3.8,5,5,3.5,5
+264,Murtidevi Chung,Japan,Tokyo,35.69,139.75,F,NA,21,2.9,3.9,3.5,2,4,5,4
+265,Arely Rodriguez,Mexico,Morelia,19.7,-101.12,F,NA,21,3.9,3.5,3.6,4,4,4,3
+266,Taylor Stone,United States of America,Reno,39.53,-119.81,F,NA,22,3,3,3.5,5,5,5,3
+267,Melody Bowyer,United States of America,Baytown,29.74,-94.98,F,NA,21,3.2,3.5,3.3,5,4,4,5
+268,Bryant Ronquillo,Mexico,Aguascalientes,21.88,-102.3,M,NA,20,4,3.2,3.5,4,3,5,3
+269,Garrett Heim,United States of America,Mobile,30.69,-88.04,M,NA,20,4,3.2,3.1,5,4,4,5
+270,Cody Amen,United States of America,Las Vegas,36.17,-115.14,M,NA,23,3.6,3.9,3.7,5,4,4,4
+271,Jasmine Lopez,Brazil,Guaxupé,-21.3,-46.7,F,NA,21,3.8,3.8,1.5,4,4,3,4
+272,William Tierney,United States of America,New York,40.71,-74.01,M,NA,21,3.8,2.1,3,5,3,4,4
+273,Matthew Sputh,United States of America,Modesto,37.64,-121,M,NA,22,3.2,2.6,4,5,3,3,5
+274,Brenna Chapman,United States of America,Las Vegas,36.17,-115.14,F,NA,21,3.5,3.8,3.3,5,5,4,5
+275,Blake Loughran,United States of America,San Francisco,37.77,-122.42,M,NA,21,4,3,3.4,5,4,3,4
+276,Michael Melendrez,United States of America,Shreveport,32.52,-93.75,M,NA,22,3.4,3.8,3.2,5,4,4,4
+277,Katie Abercrombie,United States of America,Stockton,37.96,-121.29,F,NA,21,3.8,3.8,3.6,5,3,5,4
+278,Justin Krause,United States of America,Independence,39.09,-94.42,M,NA,21,3.9,2.6,2.8,5,3,5,5
+279,Jennifer Hauge,United States of America,Los Angeles,34.05,-118.24,F,NA,23,2.6,3,2.3,5,4,4,4
+280,Tiffanie Her,Japan,Tokyo,35.69,139.75,F,NA,22,3.4,4,3.6,3,4,4,3
+281,Dyllan Paige,United States of America,Sugar Land,29.62,-95.63,M,NA,20,2.9,3.1,2.6,5,5,5,4
+282,Cole Hathcoat,United States of America,Lemoore,36.3,-119.78,M,NA,23,2.4,3.6,2.8,5,3,5,5
+283,Jesse Carballo,Colombia,Bogotá,4.65,-74.06,M,NA,20,3.8,3.9,3.9,4,5,4,4
+284,Robert Podolski,United States of America,Oakland,37.8,-122.27,M,NA,22,3.7,3.3,2.4,5,4,4,4
+285,Viridiana Ballesteros,Brazil,Alfenas,-21.43,-45.95,F,NA,22,2.8,3.5,3.9,4,4,5,5
+286,Michael Griffin,United States of America,New York,40.71,-74.01,M,NA,21,4,4,4,5,3,5,5
+287,Chad Klemp,United States of America,San Diego,32.72,-117.16,M,NA,22,3.9,2.6,4,5,4,4,5
+288,Weldon Hightower,United States of America,New York,40.71,-74.01,M,NA,20,2.6,2.1,3.2,5,4,5,5
+289,Daniel Pierce,United States of America,New York,40.71,-74.01,M,NA,24,3.3,2.8,3.9,5,5,4,5
+290,Michaela Schoenbeck,United States of America,Rexburg,43.83,-111.79,F,NA,22,3.9,4,3.3,5,5,4,4
+291,Charles Prose,United States of America,Miami,25.77,-80.19,M,NA,24,3.7,3.2,2.8,5,4,4,5
+292,Brittany Kemmerzell,United States of America,New York,40.71,-74.01,F,NA,23,3.2,3.4,3.7,5,4,5,3
+293,Taryn Springfield,Canada,Vancouver,49.25,-123.13,F,NA,20,3.5,3.7,3.4,5,5,5,5
+294,Matthew Obourn,United States of America,San Diego,32.72,-117.16,M,NA,23,3.9,4,3.9,5,4,4,4
+295,Travis Poss,United States of America,Los Angeles,34.05,-118.24,M,NA,23,2.3,3,3.5,5,1,5,5
+296,Brittany Fernandez,Mexico,Zamora,19.98,-102.27,F,NA,23,3.9,3.7,2.9,4,3,4,4
+297,Cody Smith,United States of America,Charlotte,35.23,-80.84,M,NA,23,3.8,3.5,3.9,5,5,2,5
+298,Nicolas Papp,United States of America,New York,40.71,-74.01,M,NA,23,2.7,3.7,3.9,5,5,4,4
+299,Christopher Inhulsen,United States of America,Fort Worth,32.73,-97.32,M,NA,23,3.1,3.3,2.9,5,2,4,4
+300,Tessa Rawanduzy,United States of America,Derby,37.55,-97.27,F,NA,21,3.3,3.3,2,5,3,3,5
+301,Vanessa Gonzalez,Nicaragua,León,12.44,-86.88,F,NA,24,3.3,3.7,3.8,3,5,5,4
+302,Austin Haas,United States of America,Columbus,39.96,-83,M,NA,20,3.6,3.7,3.1,5,4,5,5
+303,Madison Fithian,United States of America,Los Angeles,34.05,-118.24,F,NA,20,3.6,3.9,4,5,5,5,3
+304,Zachary Mulvahill,United States of America,Los Angeles,34.05,-118.24,M,NA,20,3.2,3.4,3.9,5,5,5,3
+305,Eliana Michelsen,United States of America,Oakland,37.8,-122.27,F,NA,23,3,2.8,2.9,5,4,4,5
+306,Dane Whittemore,Canada,Toronto,43.67,-79.42,M,NA,21,3.8,3.2,4,5,5,4,5
